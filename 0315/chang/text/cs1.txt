@@ -1,0 +1,4 @@
+Sample example text file
+ls
+exit
+ls

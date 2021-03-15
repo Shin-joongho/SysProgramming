@@ -1,0 +1,293 @@
+Script started on 2021-03-15 17:31:27+09:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  .bash_history  .bash_logout  .bashrc  [01;34m.landscape[0m  .motd_shown  .profile  0315  typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls [K-a[K[K -a;l[K[Kl
+total 12
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:31 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root    4096 Mar  8 17:12 [01;34m..[0m
+-rw------- 1 adduser adduser  109 Mar 15 17:27 .bash_history
+-rw-r--r-- 1 adduser adduser  220 Mar  8 17:12 .bash_logout
+-rw-r--r-- 1 adduser adduser 3771 Mar  8 17:12 .bashrc
+drwxr-xr-x 1 adduser adduser 4096 Mar  8 17:13 [01;34m.landscape[0m
+-rw-r--r-- 1 adduser adduser    0 Mar 15 16:35 .motd_shown
+-rw-r--r-- 1 adduser adduser  807 Mar  8 17:12 .profile
+-rw-r--r-- 1 adduser adduser  926 Mar 15 17:27 0315
+-rw-r--r-- 1 adduser adduser    0 Mar 15 17:31 typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd ..
+]0;adduser@DESKTOP-FEFD5HG: /home[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m/home[00m$ mkdir ch[K[Ks[K[K[K[K[K[K[Kcd cs
+bash: cd: cs: No such file or directory
+]0;adduser@DESKTOP-FEFD5HG: /home[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m/home[00m$ cs ~
+
+Command 'cs' not found, but can be installed with:
+
+sudo apt install csound
+
+]0;adduser@DESKTOP-FEFD5HG: /home[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m/home[00m$ cd ~
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls =s[K[K-l;s[K[Ka
+total 12
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:31 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root    4096 Mar  8 17:12 [01;34m..[0m
+-rw------- 1 adduser adduser  109 Mar 15 17:27 .bash_history
+-rw-r--r-- 1 adduser adduser  220 Mar  8 17:12 .bash_logout
+-rw-r--r-- 1 adduser adduser 3771 Mar  8 17:12 .bashrc
+drwxr-xr-x 1 adduser adduser 4096 Mar  8 17:13 [01;34m.landscape[0m
+-rw-r--r-- 1 adduser adduser    0 Mar 15 16:35 .motd_shown
+-rw-r--r-- 1 adduser adduser  807 Mar  8 17:12 .profile
+-rw-r--r-- 1 adduser adduser  926 Mar 15 17:27 0315
+-rw-r--r-- 1 adduser adduser    0 Mar 15 17:31 typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cs[K[Kmkdir shin
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ mkdir shin[4Pls -la
+total 12
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:36 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root    4096 Mar  8 17:12 [01;34m..[0m
+-rw------- 1 adduser adduser  109 Mar 15 17:27 .bash_history
+-rw-r--r-- 1 adduser adduser  220 Mar  8 17:12 .bash_logout
+-rw-r--r-- 1 adduser adduser 3771 Mar  8 17:12 .bashrc
+drwxr-xr-x 1 adduser adduser 4096 Mar  8 17:13 [01;34m.landscape[0m
+-rw-r--r-- 1 adduser adduser    0 Mar 15 16:35 .motd_shown
+-rw-r--r-- 1 adduser adduser  807 Mar  8 17:12 .profile
+-rw-r--r-- 1 adduser adduser  926 Mar 15 17:27 0315
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:36 [01;34mshin[0m
+-rw-r--r-- 1 adduser adduser    0 Mar 15 17:31 typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls
+0315  [0m[01;34mshin[0m  typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd shin
+]0;adduser@DESKTOP-FEFD5HG: ~/shin[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/shin[00m$ ls
+]0;adduser@DESKTOP-FEFD5HG: ~/shin[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/shin[00m$ ls=al[K[K[K -al
+total 0
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:36 [0m[01;34m.[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:36 [01;34m..[0m
+]0;adduser@DESKTOP-FEFD5HG: ~/shin[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/shin[00m$ rm[K[Kcs[Kd ..
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ rmshin[K[K[K[Kdir shoi[K[Kin
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls -al
+total 16
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:37 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root    4096 Mar  8 17:12 [01;34m..[0m
+-rw------- 1 adduser adduser  109 Mar 15 17:27 .bash_history
+-rw-r--r-- 1 adduser adduser  220 Mar  8 17:12 .bash_logout
+-rw-r--r-- 1 adduser adduser 3771 Mar  8 17:12 .bashrc
+drwxr-xr-x 1 adduser adduser 4096 Mar  8 17:13 [01;34m.landscape[0m
+-rw-r--r-- 1 adduser adduser    0 Mar 15 16:35 .motd_shown
+-rw-r--r-- 1 adduser adduser  807 Mar  8 17:12 .profile
+-rw-r--r-- 1 adduser adduser  926 Mar 15 17:27 0315
+-rw-r--r-- 1 adduser adduser 4096 Mar 15 17:37 typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ mkdir chol[Ki
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd chol[Ku[Ki
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ mkdir cs101
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ mkdir cs101[4Pcd choi[3@mkdir[C[C[C[C[C[4Pls -al
+total 0
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [0m[01;34m.[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:37 [01;34m..[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34mcs101[0m
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ cd..
+cd..: command not found
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ cd ..
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ mkdir chang
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls -al
+total 16
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root    4096 Mar  8 17:12 [01;34m..[0m
+-rw------- 1 adduser adduser  109 Mar 15 17:27 .bash_history
+-rw-r--r-- 1 adduser adduser  220 Mar  8 17:12 .bash_logout
+-rw-r--r-- 1 adduser adduser 3771 Mar  8 17:12 .bashrc
+drwxr-xr-x 1 adduser adduser 4096 Mar  8 17:13 [01;34m.landscape[0m
+-rw-r--r-- 1 adduser adduser    0 Mar 15 16:35 .motd_shown
+-rw-r--r-- 1 adduser adduser  807 Mar  8 17:12 .profile
+-rw-r--r-- 1 adduser adduser  926 Mar 15 17:27 0315
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34mchang[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34mchoi[0m
+-rw-r--r-- 1 adduser adduser 4096 Mar 15 17:37 typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ mjk[K[K[Kcd sh[K[Kchou[Ku[K[K[Khang[K[K[K[K[K[K[K[Kmkdir /home/cs/chang/dor[Kc
+mkdir: cannot create directory ‘/home/cs/chang/doc’: No such file or directory
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ mkdir /home/cs/chang/doc[1P/chang/doc[1P/chang/docd/chang/doco/chang/docc/chang/docy/chang/doc[1P/chang/docu/chang/docm/chang/doce/chang/docn/chang/doct/chang/doc
+mkdir: cannot create directory ‘/home/document/chang/doc’: No such file or directory
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd ..
+]0;adduser@DESKTOP-FEFD5HG: /home[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m/home[00m$ ls  -al
+total 0
+drwxr-xr-x 1 root    root    4096 Mar  8 17:12 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root    4096 Mar  8 16:39 [01;34m..[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34madduser[0m
+]0;adduser@DESKTOP-FEFD5HG: /home[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m/home[00m$ ls  -al[2Pcd ..mkdir /home/document/chang/doc[1P/chang/doc[1P/chang/doc[1P/chang/doc[1P/chang/doc[1P/chang/doc[1P/chang/doc[1P/chang/doc[1P/chang/doca/chang/docd/chang/docd/chang/docu/chang/docs/chang/doce/chang/docr/chang/doc
+]0;adduser@DESKTOP-FEFD5HG: /home[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m/home[00m$ cd ~[K[Ka[K adduser
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd chabng[K[K[Kng
+]0;adduser@DESKTOP-FEFD5HG: ~/chang[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang[00m$ ls -a;
+[0m[01;34m.[0m  [01;34m..[0m  [01;34mdoc[0m
+]0;adduser@DESKTOP-FEFD5HG: ~/chang[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang[00m$ ls -a;[Kl;[K
+total 0
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:40 [0m[01;34m.[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34m..[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:40 [01;34mdoc[0m
+]0;adduser@DESKTOP-FEFD5HG: ~/chang[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang[00m$ mkdir text
+]0;adduser@DESKTOP-FEFD5HG: ~/chang[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang[00m$ mkdir text[4Pls -al
+total 0
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:40 [0m[01;34m.[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34m..[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:40 [01;34mdoc[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:40 [01;34mtext[0m
+]0;adduser@DESKTOP-FEFD5HG: ~/chang[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang[00m$ cd text
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ ls [K
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat > cs1.txt
+Sample example text fiel  le
+ls
+df  exit
+d ls
+  ]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ ls
+cs1.txt
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat > cs2.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ ls
+cs1.txt  cs2.txt
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat cs1.txt
+Sample example text file
+ls
+exit
+ls
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat cs2.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ tail cs1.txt
+Sample example text file
+ls
+exit
+ls
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ tail cs1.txt[C[1P.txt2.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat > cs2.txt
+1
+1
+1
+1
+2
+2
+2
+^F  ]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat > cs2.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+2
+12 3
+14
+15
+16
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cs[Kat cs2,.[K[K.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+2
+13
+14
+15
+16
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ tail cs2.c[Ktxt
+7
+8
+9
+10
+11
+2
+13
+14
+15
+16
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ more
+more: bad usage
+Try 'more --help' for more information.
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ more.[K/head/ta[K[K[K[K[K[K[K[K[K[K[K[Kl[Kdir[K[K[Kls
+cs1.txt  cs2.txt
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ more cs1.txt
+Sample example text file
+ls
+exit
+ls
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cat cs1.txt
+Sample example text file
+ls
+exit
+ls
+]0;adduser@DESKTOP-FEFD5HG: ~/chang/text[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang/text[00m$ cd ~
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd cs10p1[K[K1
+bash: cd: cs101: No such file or directory
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd choi
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ cd cs101
+]0;adduser@DESKTOP-FEFD5HG: ~/choi/cs101[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi/cs101[00m$ ls -l
+total 0
+]0;adduser@DESKTOP-FEFD5HG: ~/choi/cs101[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi/cs101[00m$ cd..
+cd..: command not found
+]0;adduser@DESKTOP-FEFD5HG: ~/choi/cs101[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi/cs101[00m$ cd ..
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ ls -l;[K
+total 0
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [0m[01;34mcs101[0m
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ cd ~
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cp 03[K[K[K[K[Kcd choi
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ cp 0316[K5 /home/adduser/chang
+cp: cannot stat '0315': No such file or directory
+]0;adduser@DESKTOP-FEFD5HG: ~/choi[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/choi[00m$ cp 0315 /home/adduser/chang[C[1P /home/adduser/chang[1P /home/adduser/chang[1P /home/adduser/chang[1P /home/adduser/changc /home/adduser/changs /home/adduser/chang[1P /home/adduser/chang[1P /home/adduser/chang[1P/home/adduser/chang[1Phome/adduser/chang[1Pome/adduser/chang[1Pme/adduser/chang[1Pe/adduser/chang[1P/adduser/chang[1Padduser/chang[1Pdduser/chang[C[1Puser/chang[1Puser/chang[1Pser/chang[1Per/chang[1Pr/chang[1P/chang[1Pchang[1Phang[1Pang[1Png[1Pg[K[K[K[Kcd ~
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls -al
+total 28
+drwxr-xr-x 1 adduser adduser  4096 Mar 15 17:38 [0m[01;34m.[0m
+drwxr-xr-x 1 root    root     4096 Mar  8 17:12 [01;34m..[0m
+-rw------- 1 adduser adduser   109 Mar 15 17:27 .bash_history
+-rw-r--r-- 1 adduser adduser   220 Mar  8 17:12 .bash_logout
+-rw-r--r-- 1 adduser adduser  3771 Mar  8 17:12 .bashrc
+drwxr-xr-x 1 adduser adduser  4096 Mar  8 17:13 [01;34m.landscape[0m
+-rw-r--r-- 1 adduser adduser     0 Mar 15 16:35 .motd_shown
+-rw-r--r-- 1 adduser adduser   807 Mar  8 17:12 .profile
+-rw-r--r-- 1 adduser adduser   926 Mar 15 17:27 0315
+drwxr-xr-x 1 adduser adduser  4096 Mar 15 17:40 [01;34mchang[0m
+drwxr-xr-x 1 adduser adduser  4096 Mar 15 17:38 [01;34mchoi[0m
+-rw-r--r-- 1 adduser adduser 12288 Mar 15 18:13 typescript
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cp 0315 .,[K.[K/ch[Ka[Khang [K
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ cd chanbg[K[Kg
+]0;adduser@DESKTOP-FEFD5HG: ~/chang[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~/chang[00m$ ls -al
+total 4
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 18:26 [0m[01;34m.[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:38 [01;34m..[0m
+-rw-r--r-- 1 adduser adduser  926 Mar 15 18:26 0315
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 17:40 [01;34mdoc[0m
+drwxr-xr-x 1 adduser adduser 4096 Mar 15 18:04 [01;34mtext[0m
+]0;adduser@DESKTOP-FEFD5H

@@ -1,0 +1,18 @@
+Script started on 2021-03-15 17:26:38+09:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ date
+Mon Mar 15 17:26:43 KST 2021
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ pwd
+/home/adduser
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ ls
+0315
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ hostma[K[Kname
+DESKTOP-FEFD5HG
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ uname
+Linux
+]0;adduser@DESKTOP-FEFD5HG: ~[01;32madduser@DESKTOP-FEFD5HG[00m:[01;34m~[00m$ exti[K[Kit
+exit
+
+Script done on 2021-03-15 17:27:15+09:00 [COMMAND_EXIT_CODE="0"]
